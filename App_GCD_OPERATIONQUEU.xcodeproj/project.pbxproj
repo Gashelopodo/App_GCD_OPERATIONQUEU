@@ -12,6 +12,8 @@
 		09280A251E856F1D00411BDA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09280A231E856F1D00411BDA /* Main.storyboard */; };
 		09280A271E856F1D00411BDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09280A261E856F1D00411BDA /* Assets.xcassets */; };
 		09280A2A1E856F1D00411BDA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09280A281E856F1D00411BDA /* LaunchScreen.storyboard */; };
+		09280A321E8570A200411BDA /* GCPrimeraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09280A311E8570A200411BDA /* GCPrimeraViewController.swift */; };
+		09280A341E8570B300411BDA /* OQSegundaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09280A331E8570B300411BDA /* OQSegundaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		09280A261E856F1D00411BDA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09280A291E856F1D00411BDA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09280A2B1E856F1D00411BDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09280A311E8570A200411BDA /* GCPrimeraViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GCPrimeraViewController.swift; sourceTree = "<group>"; };
+		09280A331E8570B300411BDA /* OQSegundaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OQSegundaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				09280A1F1E856F1D00411BDA /* AppDelegate.swift */,
+				09280A311E8570A200411BDA /* GCPrimeraViewController.swift */,
+				09280A331E8570B300411BDA /* OQSegundaViewController.swift */,
 				09280A211E856F1D00411BDA /* ViewController.swift */,
 				09280A231E856F1D00411BDA /* Main.storyboard */,
 				09280A261E856F1D00411BDA /* Assets.xcassets */,
@@ -136,6 +142,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				09280A221E856F1D00411BDA /* ViewController.swift in Sources */,
+				09280A321E8570A200411BDA /* GCPrimeraViewController.swift in Sources */,
+				09280A341E8570B300411BDA /* OQSegundaViewController.swift in Sources */,
 				09280A201E856F1D00411BDA /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
